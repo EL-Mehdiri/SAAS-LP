@@ -1,6 +1,6 @@
 type SectionHeaderProps = {
   title: string;
-  description: string;
+  description?: string;
   tag: string;
 };
 

@@ -5,7 +5,7 @@ import SectionHeader from "@/components/sectionHeader";
 import Image from "next/image";
 export const ProductShowcase = () => {
   return (
-    <section className="bg-gradient-to-t overflow-x-clip from-[#ffffff] to-[#D2DCFF] py-24">
+    <section className="bg-gradient-to-b overflow-x-clip from-[#ffffff] to-[#D2DCFF] py-24">
       <div className="container  ">
         <SectionHeader
           tag="Boost your productivity"
